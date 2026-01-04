@@ -1,0 +1,9 @@
+{
+  "created_at": "2026-01-04T03:40:21.481136Z",
+  "seed": 123,
+  "n_prompts_per_topic": 16,
+  "n_annotators_per_prompt": 10,
+  "split_frac": 0.8,
+  "python": "3.12.7",
+  "numpy": "1.26.4"
+}
